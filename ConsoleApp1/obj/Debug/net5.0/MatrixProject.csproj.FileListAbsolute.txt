@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\MatrixProject.exe
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\MatrixProject.deps.json
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\MatrixProject.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\MatrixProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\MatrixProject.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\MatrixProject.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\MatrixProject.pdb
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MatrixProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MatrixProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MatrixProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MatrixProject.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MatrixProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MatrixProject.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\MatrixProject.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MatrixProject.pdb
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MatrixProject.genruntimeconfig.cache
